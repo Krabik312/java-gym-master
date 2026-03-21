@@ -6,7 +6,7 @@ public class CounterOfTrainings {
     private Coach coach;
     private int trainings;
 
-    CounterOfTrainings(Coach coach, int trainings){
+    CounterOfTrainings(Coach coach, int trainings) {
         this.coach = coach;
         this.trainings = trainings;
     }
